@@ -1,0 +1,13 @@
+{
+  "name": "webp_converter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/Seungjun0906/webp_converter.git",
+  "author": "Jun <87404676+Seungjun0906@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "imagemin": "^9.0.0",
+    "imagemin-webp": "^8.0.0"
+  }
+}
